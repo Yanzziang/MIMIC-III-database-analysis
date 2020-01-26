@@ -6,4 +6,6 @@ We utilized these data in AWS EC2 service.
 
 My presentation(Japanese version) was also attached.
 
+(some figures are from いらすとや)
+
 Thank you! 
